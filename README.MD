@@ -20,8 +20,8 @@ The Maze Path Calculator and Editor is a comprehensive tool designed for creatin
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/gmkrxb/Maze-Path-Calculator-and-Editor.git
+    cd Maze-Path-Calculator-and-Editor
     ```
 2. Install required packages:
     ```bash
@@ -69,8 +69,8 @@ The Maze Path Calculator and Editor is a comprehensive tool designed for creatin
 ### 安装
 1. 克隆仓库：
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/gmkrxb/Maze-Path-Calculator-and-Editor.git
+    cd Maze-Path-Calculator-and-Editor
     ```
 2. 安装所需包：
     ```bash
